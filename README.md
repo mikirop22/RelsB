@@ -44,7 +44,7 @@ Random Forest
 Neuronal Networks 
 LGBM regressor
 
-For each method, we studied the correlation data and after that, we tried to change the characteristic used in order to see the most importance one. We did it with feature importance. 
+For each method, we studied the correlation data and after that, we tried to change the characteristic used in order to see the most importance one. We did it with feature importance and we considered using RFE method. 
 
 We also tried with other data such us with outliers (it worked better). 
 

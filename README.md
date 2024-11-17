@@ -53,3 +53,6 @@ We also used KRIGING in order to add knowledge. And we also used latitude and lo
 We thought that a good approach would be to add some information of climate change. 
 
 We want to add that we used MLFLOW in order to track the metrics of out models and SHAP to add explainability.   
+
+
+As a conclution, the best model is the one that uses a LGBM regrerssor with KRIGING. The most importance features are: the predicted kriging prace, latitude, logitude, rooms, bathrooms and bedrooms and the summary of some of the rooms. 

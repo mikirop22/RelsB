@@ -1,7 +1,7 @@
 import subprocess
 import sys
 import os
-from mlflow_experiments.scripts.train import Train
+from train import Train
 
 def install_requirements():
     if not os.path.exists("requirements.txt"):

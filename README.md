@@ -1,5 +1,12 @@
 # RelsB
 
+
+Archives: 
+- Missing : missing treatment
+- training : executes the train of several models and the SHAP to interpret it
+- eda_raw: analyzis of the data
+- kriging: calculates the kriging of the data
+
 First, we addressed all missing values in the dataset.
 
 We thoroughly examined each missing value to determine whether it represented an actual missing value or if it simply indicated the absence of data for that particular variable.
